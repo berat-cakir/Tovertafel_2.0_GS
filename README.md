@@ -1,6 +1,6 @@
 Tovertafel 2.0 projects game visualizations onto any standard table. A camera tracks motion of hands and other objects that try to interact with the game projections. The result is an easy to use game device where projections react to player input. Additionally, the system can extract player emotions from facial expressions and observe their body language through additional cameras.
 
-The system is composed of two sub-systems. The first - Game System (https://github.com/berat-cakir/Tovertafel_2.0_GameSystem) - is responsible for the
+The system is composed of two sub-systems. The first - <a href="https://github.com/berat-cakir/Tovertafel_2.0_GameSystem">Game System</a> - is responsible for the
 processing of the game, this includes rendering its environment, processing the inputs of the players,
 making the game respond accordingly and adapting the environment of the game based on the
 information received from the second sub-system regarding the players' mood and engagement.
@@ -14,7 +14,7 @@ video stream of the players and their interactions.
 <ol>
     <li>Install dependencies by executing in terminal:
 	<b><i>pip install -r requirements.txt</i></b></li>
-    <li>Install mosquitto. For Windows detailed instructions follow this link: https://subscription.packtpub.com/book/application_development/9781787287815/1/ch01lvl1sec13/installing-a-mosquitto-broker-on-windows</li>
+    <li>Install mosquitto. For Windows detailed instructions follow this <a href="https://subscription.packtpub.com/book/application_development/9781787287815/1/ch01lvl1sec13/installing-a-mosquitto-broker-on-windows">link</a></li>
 </ol>
 <h1><b>Instructions:</b></h1><br>
 <ul>
