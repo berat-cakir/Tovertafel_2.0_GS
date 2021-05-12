@@ -4,7 +4,7 @@
 <ol>
     <li>Install dependencies by executing in terminal:
 	<b><i>pip install -r requirements.txt</i></b></li>
-    <li>Install mosquitto. For Windows detailed instructions follow this [Npm](https://www.npmjs.com/get-npm)  [link](https://subscription.packtpub.com/book/application_development/9781787287815/1/ch01lvl1sec13/installing-a-mosquitto-broker-on-windows)</li>
+    <li>Install mosquitto. For Windows detailed instructions follow this link(https://subscription.packtpub.com/book/application_development/9781787287815/1/ch01lvl1sec13/installing-a-mosquitto-broker-on-windows)</li>
 </ol>
 <h1><b>Instructions:</b></h1><br>
 <ul>
