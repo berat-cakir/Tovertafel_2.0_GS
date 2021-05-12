@@ -15,9 +15,6 @@ video stream of the players and their interactions.
     <li>Install dependencies by executing in terminal:
 	<b><i>pip install -r requirements.txt</i></b></li>
     <li>Install mosquitto. For Windows detailed instructions follow this <a href="https://subscription.packtpub.com/book/application_development/9781787287815/1/ch01lvl1sec13/installing-a-mosquitto-broker-on-windows">link</a></li>
-</ol>
-<h1><b>Instructions:</b></h1><br>
-<ul>
     <li>Start the MQTT Broker Service</li>
     <li>Run <b><i>main.py</i></b> to start the program</li>
-</ul>
+</ol>
